@@ -138,17 +138,82 @@ Suggested color names:
 
 T 100% color values:
 
-| Index | Suggested name | Hex | RGB |
-| --- | --- | --- | --- |
-| 0 | red | `#e64c4c` | `230, 76, 76` |
-| 1 | blue | `#4c79e6` | `76, 121, 230` |
-| 3 | magenta | `#e64cd2` | `230, 76, 210` |
-| 4 | cyan | `#4ce6cc` | `76, 230, 204` |
-| 5 | orange | `#e69f4c` | `230, 159, 76` |
-| 6 | purple | `#724ce6` | `114, 76, 230` |
-| 7 | green | `#52e64c` | `82, 230, 76` |
-| 10 | yellow | `#d9e64c` | `217, 230, 76` |
-| 12 | mint green | `#4ce698` | `76, 230, 152` |
+<table>
+  <thead>
+    <tr>
+      <th>Color</th>
+      <th>Index</th>
+      <th>Suggested name</th>
+      <th>Hex</th>
+      <th>RGB</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr bgcolor="#e64c4c">
+      <td bgcolor="#e64c4c">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td>0</td>
+      <td>red</td>
+      <td><code>#e64c4c</code></td>
+      <td><code>230, 76, 76</code></td>
+    </tr>
+    <tr bgcolor="#4c79e6">
+      <td bgcolor="#4c79e6">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td>1</td>
+      <td>blue</td>
+      <td><code>#4c79e6</code></td>
+      <td><code>76, 121, 230</code></td>
+    </tr>
+    <tr bgcolor="#e64cd2">
+      <td bgcolor="#e64cd2">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td>3</td>
+      <td>magenta</td>
+      <td><code>#e64cd2</code></td>
+      <td><code>230, 76, 210</code></td>
+    </tr>
+    <tr bgcolor="#4ce6cc">
+      <td bgcolor="#4ce6cc">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td>4</td>
+      <td>cyan</td>
+      <td><code>#4ce6cc</code></td>
+      <td><code>76, 230, 204</code></td>
+    </tr>
+    <tr bgcolor="#e69f4c">
+      <td bgcolor="#e69f4c">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td>5</td>
+      <td>orange</td>
+      <td><code>#e69f4c</code></td>
+      <td><code>230, 159, 76</code></td>
+    </tr>
+    <tr bgcolor="#724ce6">
+      <td bgcolor="#724ce6">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td>6</td>
+      <td>purple</td>
+      <td><code>#724ce6</code></td>
+      <td><code>114, 76, 230</code></td>
+    </tr>
+    <tr bgcolor="#52e64c">
+      <td bgcolor="#52e64c">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td>7</td>
+      <td>green</td>
+      <td><code>#52e64c</code></td>
+      <td><code>82, 230, 76</code></td>
+    </tr>
+    <tr bgcolor="#d9e64c">
+      <td bgcolor="#d9e64c">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td>10</td>
+      <td>yellow</td>
+      <td><code>#d9e64c</code></td>
+      <td><code>217, 230, 76</code></td>
+    </tr>
+    <tr bgcolor="#4ce698">
+      <td bgcolor="#4ce698">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td>12</td>
+      <td>mint green</td>
+      <td><code>#4ce698</code></td>
+      <td><code>76, 230, 152</code></td>
+    </tr>
+  </tbody>
+</table>
 
 This will help make our figures more consistent across different projects and manuscripts.
 
