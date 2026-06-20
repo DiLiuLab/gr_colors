@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="370" viewBox="0 0 760 370" role="img" aria-labelledby="title desc">
+  <title id="title">T 100 percent Di Liu Lab color table</title>
+  <desc id="desc">Nine T 100 percent lab colors with index, suggested name, hex value, and RGB value.</desc>
+  <rect width="760" height="370" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="15">
+    <rect x="20" y="20" width="720" height="36" fill="#f6f8fa" stroke="#cfd7df"/>
+    <text x="42" y="43" font-weight="700" fill="#24292f">Color</text>
+    <text x="142" y="43" font-weight="700" fill="#24292f">Index</text>
+    <text x="242" y="43" font-weight="700" fill="#24292f">Suggested name</text>
+    <text x="442" y="43" font-weight="700" fill="#24292f">Hex</text>
+    <text x="572" y="43" font-weight="700" fill="#24292f">RGB</text>
+
+    <g transform="translate(20 56)">
+      <rect x="0" y="0" width="720" height="32" fill="#e64c4c" stroke="#ffffff"/>
+      <text x="22" y="21" fill="#ffffff" font-weight="700">red</text>
+      <text x="122" y="21" fill="#ffffff">0</text>
+      <text x="222" y="21" fill="#ffffff">red</text>
+      <text x="422" y="21" fill="#ffffff" font-family="Menlo, Consolas, monospace">#e64c4c</text>
+      <text x="552" y="21" fill="#ffffff" font-family="Menlo, Consolas, monospace">230, 76, 76</text>
+
+      <rect x="0" y="32" width="720" height="32" fill="#4c79e6" stroke="#ffffff"/>
+      <text x="22" y="53" fill="#ffffff" font-weight="700">blue</text>
+      <text x="122" y="53" fill="#ffffff">1</text>
+      <text x="222" y="53" fill="#ffffff">blue</text>
+      <text x="422" y="53" fill="#ffffff" font-family="Menlo, Consolas, monospace">#4c79e6</text>
+      <text x="552" y="53" fill="#ffffff" font-family="Menlo, Consolas, monospace">76, 121, 230</text>
+
+      <rect x="0" y="64" width="720" height="32" fill="#e64cd2" stroke="#ffffff"/>
+      <text x="22" y="85" fill="#ffffff" font-weight="700">magenta</text>
+      <text x="122" y="85" fill="#ffffff">3</text>
+      <text x="222" y="85" fill="#ffffff">magenta</text>
+      <text x="422" y="85" fill="#ffffff" font-family="Menlo, Consolas, monospace">#e64cd2</text>
+      <text x="552" y="85" fill="#ffffff" font-family="Menlo, Consolas, monospace">230, 76, 210</text>
+
+      <rect x="0" y="96" width="720" height="32" fill="#4ce6cc" stroke="#ffffff"/>
+      <text x="22" y="117" fill="#111111" font-weight="700">cyan</text>
+      <text x="122" y="117" fill="#111111">4</text>
+      <text x="222" y="117" fill="#111111">cyan</text>
+      <text x="422" y="117" fill="#111111" font-family="Menlo, Consolas, monospace">#4ce6cc</text>
+      <text x="552" y="117" fill="#111111" font-family="Menlo, Consolas, monospace">76, 230, 204</text>
+
+      <rect x="0" y="128" width="720" height="32" fill="#e69f4c" stroke="#ffffff"/>
+      <text x="22" y="149" fill="#111111" font-weight="700">orange</text>
+      <text x="122" y="149" fill="#111111">5</text>
+      <text x="222" y="149" fill="#111111">orange</text>
+      <text x="422" y="149" fill="#111111" font-family="Menlo, Consolas, monospace">#e69f4c</text>
+      <text x="552" y="149" fill="#111111" font-family="Menlo, Consolas, monospace">230, 159, 76</text>
+
+      <rect x="0" y="160" width="720" height="32" fill="#724ce6" stroke="#ffffff"/>
+      <text x="22" y="181" fill="#ffffff" font-weight="700">purple</text>
+      <text x="122" y="181" fill="#ffffff">6</text>
+      <text x="222" y="181" fill="#ffffff">purple</text>
+      <text x="422" y="181" fill="#ffffff" font-family="Menlo, Consolas, monospace">#724ce6</text>
+      <text x="552" y="181" fill="#ffffff" font-family="Menlo, Consolas, monospace">114, 76, 230</text>
+
+      <rect x="0" y="192" width="720" height="32" fill="#52e64c" stroke="#ffffff"/>
+      <text x="22" y="213" fill="#111111" font-weight="700">green</text>
+      <text x="122" y="213" fill="#111111">7</text>
+      <text x="222" y="213" fill="#111111">green</text>
+      <text x="422" y="213" fill="#111111" font-family="Menlo, Consolas, monospace">#52e64c</text>
+      <text x="552" y="213" fill="#111111" font-family="Menlo, Consolas, monospace">82, 230, 76</text>
+
+      <rect x="0" y="224" width="720" height="32" fill="#d9e64c" stroke="#ffffff"/>
+      <text x="22" y="245" fill="#111111" font-weight="700">yellow</text>
+      <text x="122" y="245" fill="#111111">10</text>
+      <text x="222" y="245" fill="#111111">yellow</text>
+      <text x="422" y="245" fill="#111111" font-family="Menlo, Consolas, monospace">#d9e64c</text>
+      <text x="552" y="245" fill="#111111" font-family="Menlo, Consolas, monospace">217, 230, 76</text>
+
+      <rect x="0" y="256" width="720" height="32" fill="#4ce698" stroke="#ffffff"/>
+      <text x="22" y="277" fill="#111111" font-weight="700">mint green</text>
+      <text x="122" y="277" fill="#111111">12</text>
+      <text x="222" y="277" fill="#111111">mint green</text>
+      <text x="422" y="277" fill="#111111" font-family="Menlo, Consolas, monospace">#4ce698</text>
+      <text x="552" y="277" fill="#111111" font-family="Menlo, Consolas, monospace">76, 230, 152</text>
+    </g>
+    <rect x="20" y="20" width="720" height="324" fill="none" stroke="#cfd7df"/>
+  </g>
+</svg>
