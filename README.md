@@ -8,6 +8,7 @@ Golden-ratio HSV color palette generator for consistent Di Liu Lab figures.
 
 - `gr_colorsV3_1.py`: color generator GUI and CLI.
 - `DiLiuLab-gr_colors-all.ai`: suggested Adobe Illustrator palette for lab figures.
+- `assets/illustrator-swatch-groups.png`: example Illustrator swatch groups.
 - `assets/gr_colors_icon.png`: optional Tkinter window/task-menu icon.
 - `assets/gr_colors_icon.svg`: editable source for the icon.
 
@@ -108,6 +109,10 @@ I am sharing `DiLiuLab-gr_colors-all.ai` as a suggested color palette for our fi
 
 Artboard #2 is provided only as a reference to show the full generated color set.
 
+Example swatch groups in Adobe Illustrator:
+
+![Sample Adobe Illustrator swatch groups](assets/illustrator-swatch-groups.png)
+
 To add these colors into Adobe Illustrator:
 
 1. Open the `.ai` file in Illustrator.
@@ -130,6 +135,20 @@ Suggested color names:
 - `7 green`
 - `10 yellow`
 - `12 mint green`
+
+T 100% color values:
+
+| Index | Suggested name | Hex | RGB |
+| --- | --- | --- | --- |
+| 0 | red | `#e64c4c` | `230, 76, 76` |
+| 1 | blue | `#4c79e6` | `76, 121, 230` |
+| 3 | magenta | `#e64cd2` | `230, 76, 210` |
+| 4 | cyan | `#4ce6cc` | `76, 230, 204` |
+| 5 | orange | `#e69f4c` | `230, 159, 76` |
+| 6 | purple | `#724ce6` | `114, 76, 230` |
+| 7 | green | `#52e64c` | `82, 230, 76` |
+| 10 | yellow | `#d9e64c` | `217, 230, 76` |
+| 12 | mint green | `#4ce698` | `76, 230, 152` |
 
 This will help make our figures more consistent across different projects and manuscripts.
 
