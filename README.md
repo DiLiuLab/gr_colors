@@ -8,6 +8,7 @@ Golden-ratio HSV color palette generator for consistent Di Liu Lab figures.
 
 - `gr_colorsV3_1.py`: color generator GUI and CLI.
 - `DiLiuLab-gr_colors-all.ai`: suggested Adobe Illustrator palette for lab figures.
+- `example_results/`: example SVG palette exports at several tint levels.
 - `assets/illustrator-swatch-groups.png`: example Illustrator swatch groups.
 - `assets/gr_colors_icon.png`: optional Tkinter window/task-menu icon.
 - `assets/gr_colors_icon.svg`: editable source for the icon.
@@ -61,6 +62,19 @@ Important parameters:
 - `--value`: HSV value/brightness in the range 0 to 1.
 - `--tint`: tint factor, where `1` keeps the original color and `0` gives white.
 - `--columns`: number of preview/SVG columns.
+
+## Example Results
+
+The `example_results/` folder includes SVG exports at several tint levels. These examples use the same default hue, saturation, and value settings, while changing only the tint factor.
+
+| Tint level | Preview |
+| --- | --- |
+| T 100% | <img src="example_results/gr_colors-T1p00.svg" width="360" alt="T 100% palette example"> |
+| T 80% | <img src="example_results/gr_colors-T0p80.svg" width="360" alt="T 80% palette example"> |
+| T 75% | <img src="example_results/gr_colors-T0p75.svg" width="360" alt="T 75% palette example"> |
+| T 60% | <img src="example_results/gr_colors-T0p60.svg" width="360" alt="T 60% palette example"> |
+| T 40% | <img src="example_results/gr_colors-T0p40.svg" width="360" alt="T 40% palette example"> |
+| T 20% | <img src="example_results/gr_colors-T0p20.svg" width="360" alt="T 20% palette example"> |
 
 ## Clone And Pull
 

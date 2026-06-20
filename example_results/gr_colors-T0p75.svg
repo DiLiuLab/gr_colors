@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1018" height="628" viewBox="0 0 1018 628">
+<rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
+<text x="24" y="32" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#111111">Golden-ratio HSV color palette</text>
+<text x="24" y="56" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#333333">h_i = (H start + i * 0.618033988749895) mod 1; H start=0.000, S=0.670, V=0.900, T=0.750</text>
+<text x="24" y="75" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#333333">Grid: 5 requested rows × 6 columns; exported with 5 row(s) to include 18 color(s).</text>
+<g id="color_0">
+<rect x="24" y="88" width="150" height="92" rx="10" ry="10" fill="#ec7979" stroke="#333333" stroke-width="1"/>
+<text x="34" y="110" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#ffffff">index 0</text>
+<text x="34" y="131" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#ffffff">#ec7979</text>
+<text x="34" y="152" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#ffffff">RGB 236, 121, 121</text>
+<text x="34" y="171" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#ffffff">h=0.000</text>
+</g>
+<g id="color_1">
+<rect x="188" y="88" width="150" height="92" rx="10" ry="10" fill="#799aec" stroke="#333333" stroke-width="1"/>
+<text x="198" y="110" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#000000">index 1</text>
+<text x="198" y="131" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#000000">#799aec</text>
+<text x="198" y="152" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000">RGB 121, 154, 236</text>
+<text x="198" y="171" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#000000">h=0.618</text>
+</g>
+<g id="color_2">
+<rect x="352" y="88" width="150" height="92" rx="10" ry="10" fill="#bcec79" stroke="#333333" stroke-width="1"/>
+<text x="362" y="110" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#000000">index 2</text>
+<text x="362" y="131" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#000000">#bcec79</text>
+<text x="362" y="152" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000">RGB 188, 236, 121</text>
+<text x="362" y="171" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#000000">h=0.236</text>
+</g>
+<g id="color_3">
+<rect x="516" y="88" width="150" height="92" rx="10" ry="10" fill="#ec79dd" stroke="#333333" stroke-width="1"/>
+<text x="526" y="110" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#000000">index 3</text>
+<text x="526" y="131" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#000000">#ec79dd</text>
+<text x="526" y="152" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000">RGB 236, 121, 221</text>
+<text x="526" y="171" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#000000">h=0.854</text>
+</g>
+<g id="color_4">
+<rect x="680" y="88" width="150" height="92" rx="10" ry="10" fill="#79ecd9" stroke="#333333" stroke-width="1"/>
+<text x="690" y="110" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#000000">index 4</text>
+<text x="690" y="131" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#000000">#79ecd9</text>
+<text x="690" y="152" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000">RGB 121, 236, 217</text>
+<text x="690" y="171" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#000000">h=0.472</text>
+</g>
+<g id="color_5">
+<rect x="844" y="88" width="150" height="92" rx="10" ry="10" fill="#ecb779" stroke="#333333" stroke-width="1"/>
+<text x="854" y="110" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#000000">index 5</text>
+<text x="854" y="131" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#000000">#ecb779</text>
+<text x="854" y="152" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000">RGB 236, 183, 121</text>
+<text x="854" y="171" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#000000">h=0.090</text>
+</g>
+<g id="color_6">
+<rect x="24" y="194" width="150" height="92" rx="10" ry="10" fill="#9579ec" stroke="#333333" stroke-width="1"/>
+<text x="34" y="216" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#ffffff">index 6</text>
+<text x="34" y="237" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#ffffff">#9579ec</text>
+<text x="34" y="258" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#ffffff">RGB 149, 121, 236</text>
+<text x="34" y="277" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#ffffff">h=0.708</text>
+</g>
+<g id="color_7">
+<rect x="188" y="194" width="150" height="92" rx="10" ry="10" fill="#7dec79" stroke="#333333" stroke-width="1"/>
+<text x="198" y="216" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#000000">index 7</text>
+<text x="198" y="237" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#000000">#7dec79</text>
+<text x="198" y="258" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000">RGB 125, 236, 121</text>
+<text x="198" y="277" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#000000">h=0.326</text>
+</g>
+<g id="color_8">
+<rect x="352" y="194" width="150" height="92" rx="10" ry="10" fill="#ec799f" stroke="#333333" stroke-width="1"/>
+<text x="362" y="216" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#ffffff">index 8</text>
+<text x="362" y="237" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#ffffff">#ec799f</text>
+<text x="362" y="258" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#ffffff">RGB 236, 121, 159</text>
+<text x="362" y="277" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#ffffff">h=0.944</text>
+</g>
+<g id="color_9">
+<rect x="516" y="194" width="150" height="92" rx="10" ry="10" fill="#79c1ec" stroke="#333333" stroke-width="1"/>
+<text x="526" y="216" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#000000">index 9</text>
+<text x="526" y="237" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#000000">#79c1ec</text>
+<text x="526" y="258" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000">RGB 121, 193, 236</text>
+<text x="526" y="277" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#000000">h=0.562</text>
+</g>
+<g id="color_10">
+<rect x="680" y="194" width="150" height="92" rx="10" ry="10" fill="#e2ec79" stroke="#333333" stroke-width="1"/>
+<text x="690" y="216" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#000000">index 10</text>
+<text x="690" y="237" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#000000">#e2ec79</text>
+<text x="690" y="258" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000">RGB 226, 236, 121</text>
+<text x="690" y="277" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#000000">h=0.180</text>
+</g>
+<g id="color_11">
+<rect x="844" y="194" width="150" height="92" rx="10" ry="10" fill="#d479ec" stroke="#333333" stroke-width="1"/>
+<text x="854" y="216" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#ffffff">index 11</text>
+<text x="854" y="237" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#ffffff">#d479ec</text>
+<text x="854" y="258" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#ffffff">RGB 212, 121, 236</text>
+<text x="854" y="277" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#ffffff">h=0.798</text>
+</g>
+<g id="color_12">
+<rect x="24" y="300" width="150" height="92" rx="10" ry="10" fill="#79ecb2" stroke="#333333" stroke-width="1"/>
+<text x="34" y="322" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#000000">index 12</text>
+<text x="34" y="343" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#000000">#79ecb2</text>
+<text x="34" y="364" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000">RGB 121, 236, 178</text>
+<text x="34" y="383" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#000000">h=0.416</text>
+</g>
+<g id="color_13">
+<rect x="188" y="300" width="150" height="92" rx="10" ry="10" fill="#ec9179" stroke="#333333" stroke-width="1"/>
+<text x="198" y="322" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#000000">index 13</text>
+<text x="198" y="343" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#000000">#ec9179</text>
+<text x="198" y="364" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000">RGB 236, 145, 121</text>
+<text x="198" y="383" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#000000">h=0.034</text>
+</g>
+<g id="color_14">
+<rect x="352" y="300" width="150" height="92" rx="10" ry="10" fill="#7982ec" stroke="#333333" stroke-width="1"/>
+<text x="362" y="322" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#ffffff">index 14</text>
+<text x="362" y="343" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#ffffff">#7982ec</text>
+<text x="362" y="364" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#ffffff">RGB 121, 130, 236</text>
+<text x="362" y="383" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#ffffff">h=0.652</text>
+</g>
+<g id="color_15">
+<rect x="516" y="300" width="150" height="92" rx="10" ry="10" fill="#a4ec79" stroke="#333333" stroke-width="1"/>
+<text x="526" y="322" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#000000">index 15</text>
+<text x="526" y="343" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#000000">#a4ec79</text>
+<text x="526" y="364" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000">RGB 164, 236, 121</text>
+<text x="526" y="383" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#000000">h=0.271</text>
+</g>
+<g id="color_16">
+<rect x="680" y="300" width="150" height="92" rx="10" ry="10" fill="#ec79c6" stroke="#333333" stroke-width="1"/>
+<text x="690" y="322" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#000000">index 16</text>
+<text x="690" y="343" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#000000">#ec79c6</text>
+<text x="690" y="364" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000">RGB 236, 121, 198</text>
+<text x="690" y="383" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#000000">h=0.889</text>
+</g>
+<g id="color_17">
+<rect x="844" y="300" width="150" height="92" rx="10" ry="10" fill="#79e7ec" stroke="#333333" stroke-width="1"/>
+<text x="854" y="322" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#000000">index 17</text>
+<text x="854" y="343" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#000000">#79e7ec</text>
+<text x="854" y="364" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000">RGB 121, 231, 236</text>
+<text x="854" y="383" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#000000">h=0.507</text>
+</g>
+</svg>
